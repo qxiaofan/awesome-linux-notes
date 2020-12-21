@@ -19,6 +19,8 @@ QQ群「3D视觉研习社」，群号：574432628
 
 <a name="ubuntu知识点总结"></a>
 
+#### ubuntu常用命令技巧
+
 - $gnome-system-monitor    #系统监视器打开（类似任务管理器）
 
   
